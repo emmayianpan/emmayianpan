@@ -1,6 +1,4 @@
 ### Hello :speak_no_evil:
-<!--
-**emmayianpan/emmayianpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Emma! I was born and raised in Taiwan and currently live in Asbury Park, NJ.
 <br>
